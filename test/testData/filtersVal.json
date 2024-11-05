@@ -1,0 +1,11 @@
+[
+      {
+        "filterName": "Highlights",
+        "selectedValues": ["Sale","NEU","Limitiert"]
+      },
+      {
+        "filterName": "Produktart",
+        "selectedValues": ["Bodyspray", "Duftset"]
+      }
+      
+]
